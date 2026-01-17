@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shreddha S Nair
 - 👀 I’m interested in the Automotive industry, data analytics, cyber security and software development
-- 🌱 I’m currently doing a Data Analysis project which is part of the Google Data Analytics Professional Certificate that I recently got
+- 🌱 I’m currently learning more on Java, Spring Boot, DBMS and core networking
 - 💞️ I’m looking to collaborate on projects based on software development, data analysis
 - 📫 How to reach me - snairshreddha@gmail.com
 - 😄 Pronouns: She/Her
